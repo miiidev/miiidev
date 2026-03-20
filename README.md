@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VerifAI, a deepfake classifier<br>🌱 I’m currently learning PyTorch<br>⚡ Fun fact:<br>I'm currently studying at Centre for Foundation Studies, IIUM and enrolled in Foundation for Computer Science
+🔭 I’m currently working on Spotter, a deepfake classifier<br>🌱 I’m currently learning PyTorch<br>⚡ Fun fact:<br>I'm currently studying at Centre for Foundation Studies, IIUM and enrolled in Foundation for Computer Science
 
 
 ## 🌐 Socials:
