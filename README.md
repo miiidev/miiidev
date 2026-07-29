@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on deepsleuth, a deepfake classifier<br>🌱 I’m currently learning PyTorch<br>⚡ Fun fact:<br>I just finished studying at Centre for Foundation Studies, IIUM and enrolled in Foundation for Computer Science
+🔭 I’m currently working on rikugan, a deepfake classifier<br>🌱 I’m currently learning PyTorch<br>⚡ Fun fact:<br>I just finished studying at Centre for Foundation Studies, IIUM and enrolled in Foundation for Computer Science
 
 
 ## 🌐 Socials:
